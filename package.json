@@ -1,0 +1,9 @@
+{
+    "urls": [
+      ["mip-example/core.py", "github:electricalgorithm/mip-package-json-example/core.py"],
+      ["mip-example/common.py", "github:electricalgorithm/mip-package-json-example/common.py"],
+      ["mip-example/one_dirs/some_file.py", "github:electricalgorithm/mip-package-json-example/one_dirs/some_file.py"]
+    ],
+    "deps": [],
+    "version": "0.1"
+}
